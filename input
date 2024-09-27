@@ -1,0 +1,5 @@
+# return, call, jump, JUMPIFEQ, JUMPIFNEQ
+.IPPCode24
+DEFVAR GF@name1
+MOVE GF@name1 int@5
+WRITE GF@name1
